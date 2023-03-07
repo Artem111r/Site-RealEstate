@@ -279,7 +279,7 @@ body {
 position: static;
 height: 22px;
 width: 11px;
-background: url("/img/main-page/svg-arrow.svg") 0 0 no-repeat;
+background: url("../img/main-page/svg-arrow.svg") 0 0 no-repeat;
 }
 .swiper-button-prev {
   transform: rotate(-180deg);
