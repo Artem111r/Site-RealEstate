@@ -375,6 +375,12 @@ background: url("../img/main-page/svg-arrow.svg") 0 0 no-repeat;
     flex: 0 0 10%;
     
   }
+  .partners-main-block__item{
+    flex: 0 0 25%;
+  }
+  .partners-main-block__lable{
+    font-size: 12px;
+  }
 
 }
 
